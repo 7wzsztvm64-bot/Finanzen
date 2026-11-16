@@ -1,0 +1,16 @@
+{
+  "name": "Finanzen",
+  "short_name": "Finanzen",
+  "description": "Bank-Exporte auswerten, Ausgaben nach Kategorie sehen, Limits setzen.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e9edf7",
+  "theme_color": "#dbe7fb",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
